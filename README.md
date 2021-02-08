@@ -67,6 +67,15 @@
 ## 其他 ROM
 
 * [OnePlus 3T ROMs](https://forum.xda-developers.com/oneplus-3t/development#romList)
+* [[GSI] Ubuntu touch for Oneplus 3/3T](https://forum.xda-developers.com/t/treble-gsi-ubuntu-touch-for-oneplus-3-3t.4123989/)
+* [Sailfish OS for the OnePlus 3/3T](https://forum.xda-developers.com/t/sailfish-os-for-the-oneplus-3-3t.3724264/)
+
+## GSI
+* [教程](https://forum.xda-developers.com/t/treble-unofficial-lineageos-16-0-treble-for-oneplus-3-3t.3830455/)
+* [[A-only]LineageOS 16.0 Treble -- system分区LineageOS+vender分区底包+支持Treble的TWRP](https://mega.nz/#F!A0VmQAaC!Mc3HYZgAkxeoQwGkZyJvwg)
+* [[A-only]LineageOS 15.1 Treble -- system分区LineageOS+vender分区底包+支持Treble的TWRP](https://androidfilehost.com/?w=files&flid=280568)
+* [[A/B]LineageOS 16.0 Treble system-as-root -- system分区LineageOS+vender分区底包+支持Treble的TWRP](https://mega.nz/#F!UgdQRYSD!8s-_u2HJQZDEqNnFOnejxQ)
+* [Source Code](https://github.com/OP3Treble)
 
 ## 救砖工具包（基于 Android 6.0）
 
