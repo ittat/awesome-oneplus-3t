@@ -6,7 +6,23 @@
 
 > 相关仓库：[awesome-google-pixel-4](https://github.com/huihut/awesome-google-pixel-4)：Google Pixel 4/4XL ROM、Recovery、Framework、APP、搞机笔记，以备茶余饭后手贱刷机之用。
 
-# ROM
+# ROM 
+## 基于 11
+* [LineageOS18](https://sourceforge.net/projects/lineageop3/files/29-01-2021/lineage-18.1-20210129-UNOFFICIAL-oneplus3.zip/download)
+* [Project Sakura v4.R](https://forum.xda-developers.com/t/rom-11-0-project-sakura-official.4147817/#post-84350093)
+* [ArrowOS v11.0](https://forum.xda-developers.com/t/rom-official-android-11-0-arrowos-11-0-for-oneplus3-3t-05-november-2020.4172699/)
+* [OctaviOS v1.4](https://drive.google.com/file/d/18-Pv7Uqd5-Ac9e3aeYlWN9M8uQsMEltk/view?usp=drivesdk)
+* [MSM Xtended XR v3.0](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/cardinal-aosp-5-0-android-8-0-pre-t3693585)
+* [Bliss ROM v14.0](https://forum.xda-developers.com/t/official-bliss-rom-android-10-oneplus3-3t.4034785)
+* [DerpFest](https://forum.xda-developers.com/t/rom-11-0-alpha-derpfest-for-oneplus-3-3t-official-2020-12-08.4200187/)
+* [StagOS](https://mega.nz/file/mWhyiSjD#TKFuWRQqu9b5wN5BE7cHfrzqLyLWF4p5DwJHs9yuNtg)
+* [Pixel Experience (PE OFFICIAL)](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4196403)
+
+## 基于 10 
+* [Pixel Experience Q OFFICIAL](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-t4054643)
+* [Resurrection Remix (RR) v8.6.5](https://forum.xda-developers.com/t/10-0-official-resurrection-remix-v8-6-5-oneplus-3-3t-24-12-2020.4146273/)
+* [HavocOS v3.12](https://forum.xda-developers.com/t/rom-23-07-20-havoc-os-3-7-10-0-0_r40-official.3782811/)
+
 ## 基于9.0  
 
 * [[一加官方] OnePlus 3T 氢OS(H2OS) 9.0 公测第三版](http://www.oneplusbbs.com/thread-4766214-1.html) | [下载](http://download.h2os.com/OnePlus%203T/forum/OnePlus3THydrogen_28_OTA_080_all_1905271910_97ad265fd6bd491d.zip)  
@@ -78,6 +94,8 @@
 
 * [[一加官方] Oxygen Recovery](http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3t.img)
 * [Official TWRP 3.2.1-0 (unified)](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/recovery-official-twrp-touch-recovery-t3742894) | [下载](https://twrp.me/oneplus/oneplusthree.html)
+* [Official TeamWin Recovery Project (TWRP) v3.5.0](https://forum.xda-developers.com/t/recovery-unified-official-twrp-touch-recovery-for-oneplus-3-3t.3742894)
+* [Official PitchBlack Recovery Project (PBRP)](https://forum.xda-developers.com/t/official-pitch-black-recovery-project-3-0-0-oneplus-3-3t.4184997/)
 
 # ADB
 
@@ -152,6 +170,7 @@
 ## Pixel2Mod Google Camera
 
 * [Pixel2Mod Google Camera](https://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552)
+* [Google Camera (GCam) v8.1.x](https://www.celsoazevedo.com/files/android/google-camera/f/changelog1519/)
 
 ## Google Pixel 实时动态壁纸
 
